@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+}
+
+.tb{
+    background-color: azure;
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+}
+
+#button {
+    text-align: center;
+    height: 40px;
+    width: 100px;
+}
